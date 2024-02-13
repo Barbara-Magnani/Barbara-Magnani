@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou a  Barbara Magnani.
 - 👀 Tenho interesse em tudo que envolva ciência de dados, matemática e física.
 - 🌱 Estou aprendendo a programar em python e aplicando as novas habilidades em várias áreas como: física, negócios e finanças.
-- ✨ Meus repositórios estão em @MP-resuldados, onde eu e o @eduardo paul trabalhamos em colaboração.
+- ✨ Meus repositórios estão em @MP-resuldados, onde eu e o @eduardopaul trabalhamos em colaboração.
 
 
 
